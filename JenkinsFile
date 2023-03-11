@@ -1,9 +1,21 @@
 pipeline{
     agent any
     stages{
-        stage("Build"){
+        stage("Git Cloning Stage"){
             steps{
-                sh 'echo "jainam"'
+                git 'https://github.com/shahJainam961/CalulatorDevOps.git'
+            }
+        }
+
+        stage("Building Stage"){
+            steps{
+                sh 'mvn clean&&mvn package -DskipTests'
+            }
+        }
+
+        stage("Testing Stage"){
+            steps{
+                sh 'mvn test'
             }
         }
     }
