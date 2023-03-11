@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0001 Add functionality added">
-      <change afterPath="$PROJECT_DIR$/JenkinsFile" afterDir="false" />
+    <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0002 JenkinsFile added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678523493605</updated>
       <workItem from="1678523494914" duration="1727000" />
-      <workItem from="1678525265063" duration="4634000" />
+      <workItem from="1678525265063" duration="5318000" />
     </task>
     <task id="LOCAL-00001" summary="AFI-0001 Add functionality added">
       <created>1678528323623</created>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678528323623</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AFI-0002 JenkinsFile added">
+      <created>1678530321083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678530321083</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AFI-0001 Add functionality added" />
-    <option name="LAST_COMMIT_MESSAGE" value="AFI-0001 Add functionality added" />
+    <MESSAGE value="AFI-0002 JenkinsFile added" />
+    <option name="LAST_COMMIT_MESSAGE" value="AFI-0002 JenkinsFile added" />
   </component>
 </project>
