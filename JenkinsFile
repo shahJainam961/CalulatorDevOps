@@ -18,5 +18,10 @@ pipeline{
                 sh 'mvn test'
             }
         }
+        stage("Pushing the docker Image to Docker Hub"){
+            steps{
+                sh 'docker push murphy961/spe_devops:1.0'
+            }
+        }
     }
 }
