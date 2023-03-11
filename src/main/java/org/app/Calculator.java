@@ -25,7 +25,7 @@ public class Calculator {
                 else flag = false;
             }
             catch(Exception e){
-                System.out.println("e = " + e);
+                System.out.println(e);
                 return;
             }
         }
