@@ -14,14 +14,20 @@ public class Calculator {
         char choice;
         Scanner scan = new Scanner(System.in);
         while(flag){
-            System.out.println("Enter your two numbers (space separated)");
-            num1 = scan.nextInt();
-            num2 = scan.nextInt();
-            System.out.println(add(num1,num2));
-            System.out.println("You wanna continue (Y/N) ? : ");
-            choice = scan.next().charAt(0);
-            if(choice=='Y') continue;
-            else flag = false;
+            try{
+                System.out.println("Enter your two numbers (space separated)");
+                num1 = scan.nextInt();
+                num2 = scan.nextInt();
+                System.out.println(add(num1,num2));
+                System.out.println("You wanna continue (Y/N) ? : ");
+                choice = scan.next().charAt(0);
+                if(choice=='Y') continue;
+                else flag = false;
+            }
+            catch(Exception e){
+                System.out.println("e = " + e);
+                return;
+            }
         }
     }
 }
