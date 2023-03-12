@@ -132,7 +132,7 @@
       <workItem from="1678554510961" duration="2502000" />
       <workItem from="1678609673793" duration="1848000" />
       <workItem from="1678612416878" duration="1131000" />
-      <workItem from="1678613771288" duration="1462000" />
+      <workItem from="1678613771288" duration="1840000" />
     </task>
     <task id="LOCAL-00001" summary="AFI-0001 Add functionality added">
       <created>1678528323623</created>
@@ -281,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678615133972</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="AFI-0009 Checking functionality changes">
+      <created>1678615236464</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678615236464</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
