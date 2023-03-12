@@ -15,7 +15,7 @@ public class Calculator {
         Scanner scan = new Scanner(System.in);
         while(flag){
             try{
-                System.out.println("Enter your two numbers (space separated)");
+                System.out.println("Enter your two integers(space separated)");
                 num1 = scan.nextInt();
                 num2 = scan.nextInt();
                 System.out.println(add(num1,num2));
