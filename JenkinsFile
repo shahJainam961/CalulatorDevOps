@@ -19,6 +19,7 @@ pipeline{
         stage("build image"){
             steps{
                 sh 'docker login -u "murphy961" -p "Dockerhub@961"'
+                sh 'docker build -t murphy961/spe_devops:1.0 .'
                 sh 'docker push murphy961/spe_devops:1.0'
             }
         }

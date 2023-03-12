@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0010 Checking functionality changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JenkinsFile" beforeDir="false" afterPath="$PROJECT_DIR$/JenkinsFile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,7 @@
       <workItem from="1678554510961" duration="2502000" />
       <workItem from="1678609673793" duration="1848000" />
       <workItem from="1678612416878" duration="1131000" />
-      <workItem from="1678613771288" duration="2013000" />
+      <workItem from="1678613771288" duration="2552000" />
     </task>
     <task id="LOCAL-00001" summary="AFI-0001 Add functionality added">
       <created>1678528323623</created>
@@ -296,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678615670881</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="AFI-0010 Checking functionality changes">
+      <created>1678615789488</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678615789488</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
