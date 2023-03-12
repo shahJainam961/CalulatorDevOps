@@ -8,11 +8,12 @@ public class Calculator {
     public int add(int a, int b){
         return a+b;
     }
-    public void runService() {
+    public void runService() throws InterruptedException {
         int num1, num2;
         boolean flag = true;
         char choice;
         Scanner scan = new Scanner(System.in);
+        Thread.sleep(1000);
         while(flag){
             try{
                 System.out.println("Enter your two numbers (space separated)");
