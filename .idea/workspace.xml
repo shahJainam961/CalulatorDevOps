@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0007 ansible configured">
-      <change beforePath="$PROJECT_DIR$/JenkinsFile" beforeDir="false" afterPath="$PROJECT_DIR$/JenkinsFile" afterDir="false" />
+    <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/playbook.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +132,7 @@
       <workItem from="1678547717451" duration="3609000" />
       <workItem from="1678554510961" duration="2502000" />
       <workItem from="1678609673793" duration="1848000" />
-      <workItem from="1678612416878" duration="592000" />
+      <workItem from="1678612416878" duration="1131000" />
     </task>
     <task id="LOCAL-00001" summary="AFI-0001 Add functionality added">
       <created>1678528323623</created>
@@ -217,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678613008185</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1678613087104</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678613087104</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,9 +236,9 @@
     <MESSAGE value="AFI-0002 JenkinsFile added" />
     <MESSAGE value="AFI-0003 plugin version added" />
     <MESSAGE value="AFI-0005 pushed image to dockerhub" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="AFI-0006 docker pusshed" />
     <MESSAGE value="AFI-0007 ansible configured" />
-    <option name="LAST_COMMIT_MESSAGE" value="AFI-0007 ansible configured" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
