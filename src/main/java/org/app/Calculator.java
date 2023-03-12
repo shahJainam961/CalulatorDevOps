@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class Calculator {
 
     private static final Logger log = LogManager.getLogger(Calculator.class);
+
     public int add(int a, int b){
         return a+b;
     }
