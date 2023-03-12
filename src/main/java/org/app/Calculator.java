@@ -1,13 +1,10 @@
 package org.app;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import java.util.Scanner;
 
 
 public class Calculator {
 
-    private static final Logger log = LogManager.getLogger(Calculator.class);
 
     public int add(int a, int b){
         return a+b;
@@ -27,10 +24,8 @@ public class Calculator {
                 System.out.println(num3);
                 System.out.println("You wanna continue (Y/N) ? : ");
                 choice = scan.next().charAt(0);
-                log.info("|| Operation on "+num1+" and "+num2+" ==> "+num3+" ||");
                 if(choice!='Y'){
                     flag = false;
-                    log.info("Exited...");
                 }
             }
             catch(Exception e){
