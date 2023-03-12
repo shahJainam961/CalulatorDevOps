@@ -16,7 +16,7 @@ pipeline{
                 sh 'mvn test'
             }
         }
-        stage("build image"){z`
+        stage("build image"){
             steps{
                 sh 'docker login -u "murphy961" -p "Dockerhub@961"'
                 sh 'docker push murphy961/spe_devops:1.0'
