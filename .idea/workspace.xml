@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0013 edited inputs">
-      <change beforePath="$PROJECT_DIR$/calculator.log" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playbook.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/playbook.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/Calculator.java" afterDir="false" />
+    <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0015 edited dockerFile">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,7 +359,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679116474658</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="AFI-0014 edited inputs">
+      <created>1679116820404</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679116820404</updated>
+    </task>
+    <task id="LOCAL-00031" summary="AFI-0015 edited dockerFile">
+      <created>1679117234656</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679117234656</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,6 +395,8 @@
     <MESSAGE value="AFI-0011 Logging is done and added new functionalities and their testcases" />
     <MESSAGE value="AFI-0012 Popped up the terminal" />
     <MESSAGE value="AFI-0013 edited inputs" />
-    <option name="LAST_COMMIT_MESSAGE" value="AFI-0013 edited inputs" />
+    <MESSAGE value="AFI-0014 edited inputs" />
+    <MESSAGE value="AFI-0015 edited dockerFile" />
+    <option name="LAST_COMMIT_MESSAGE" value="AFI-0015 edited dockerFile" />
   </component>
 </project>

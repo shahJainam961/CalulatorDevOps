@@ -6,7 +6,7 @@ import org.apache.logging.log4j.Logger;
 import java.util.Scanner;
 
 class CalculatorOperations{
-    private static final Logger logger = LogManager.getLogger(Calculator.class);
+    private static final Logger logger = LogManager.getLogger(CalculatorOperations.class);
 
     public double add(double a, double b){
         double ans = a + b;
