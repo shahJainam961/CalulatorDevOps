@@ -7,4 +7,5 @@
         docker pull murphy961/spe_devops:1.0
     - name: create container using pulled image
       shell:
-        docker stop calc&&docker rm calc&&docker run -itd --name calc murphy961/spe_devops:1.0&&gnome-terminal -- bash -c "docker attach calc; exec bash"
+        docker stop calc&&docker rm calc&&docker run -itd --name calc murphy961/spe_devops:1.0
+#        &&gnome-terminal -- bash -c "docker attach calc; exec bash"

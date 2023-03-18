@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0010 Checking functionality changes">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/app/CalculatorOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbook.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/playbook.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/app/CalculatorTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,13 @@
         <option value="JUnit5 Test Class" />
         <option value="JUnit4 Test Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -135,7 +148,19 @@
       <workItem from="1678613771288" duration="3720000" />
       <workItem from="1678623898627" duration="906000" />
       <workItem from="1678637851065" duration="3191000" />
-      <workItem from="1678643073791" duration="33000" />
+      <workItem from="1678643073791" duration="985000" />
+      <workItem from="1678644068356" duration="655000" />
+      <workItem from="1678677961432" duration="13000" />
+      <workItem from="1678768749280" duration="1975000" />
+      <workItem from="1678783881706" duration="10000" />
+      <workItem from="1678784409843" duration="684000" />
+      <workItem from="1678801287461" duration="1245000" />
+      <workItem from="1678875713771" duration="24000" />
+      <workItem from="1678875961510" duration="49000" />
+      <workItem from="1678877141128" duration="1258000" />
+      <workItem from="1679109874193" duration="4022000" />
+      <workItem from="1679113999656" duration="852000" />
+      <workItem from="1679114861996" duration="885000" />
     </task>
     <task id="LOCAL-00001" summary="AFI-0001 Add functionality added">
       <created>1678528323623</created>
@@ -312,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678616332916</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="AFI-0010 Checking functionality changes">
+      <created>1678643335866</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678643335866</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
