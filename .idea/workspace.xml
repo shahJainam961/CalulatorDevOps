@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0010 Checking functionality changes">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/app/CalculatorOperationsTest.java" afterDir="false" />
+    <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0012 Popped up the terminal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playbook.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/playbook.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/app/CalculatorTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -344,7 +338,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678643335866</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="AFI-0011 Logging is done and added new functionalities and their testcases">
+      <created>1679115981213</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679115981213</updated>
+    </task>
+    <task id="LOCAL-00028" summary="AFI-0012 Popped up the terminal">
+      <created>1679116104299</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679116104299</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,6 +371,8 @@
     <MESSAGE value="AFI-0008 Ansible configured" />
     <MESSAGE value="AFI-0009 Checking functionality changes" />
     <MESSAGE value="AFI-0010 Checking functionality changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="AFI-0010 Checking functionality changes" />
+    <MESSAGE value="AFI-0011 Logging is done and added new functionalities and their testcases" />
+    <MESSAGE value="AFI-0012 Popped up the terminal" />
+    <option name="LAST_COMMIT_MESSAGE" value="AFI-0012 Popped up the terminal" />
   </component>
 </project>

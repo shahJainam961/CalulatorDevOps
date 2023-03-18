@@ -76,7 +76,7 @@ public class Calculator {
         Integer op;
         double num1=0, num2=0;
         int ni=0;
-        scanner.next().charAt(0);
+//        scanner.next().charAt(0);
         System.out.println("======================================IIITB Calculator======================================");
 
         while(true){
