@@ -155,7 +155,7 @@
       <workItem from="1679109874193" duration="4022000" />
       <workItem from="1679113999656" duration="852000" />
       <workItem from="1679114861996" duration="885000" />
-      <workItem from="1679120754437" duration="2636000" />
+      <workItem from="1679120754437" duration="2962000" />
     </task>
     <task id="LOCAL-00001" summary="AFI-0001 Add functionality added">
       <created>1678528323623</created>
@@ -395,7 +395,35 @@
       <option name="project" value="LOCAL" />
       <updated>1679128566287</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="AFI-0017 Thread sleep added for better visual">
+      <created>1679128651157</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1679128651157</updated>
+    </task>
+    <task id="LOCAL-00036" summary="AFI-0017 Thread sleep added for better visual">
+      <created>1679128728290</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1679128728290</updated>
+    </task>
+    <task id="LOCAL-00037" summary="AFI-0017 Thread sleep added for better visual">
+      <created>1679128814783</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1679128814783</updated>
+    </task>
+    <task id="LOCAL-00038" summary="AFI-0017 Thread sleep added for better visual">
+      <created>1679128891839</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1679128891839</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
