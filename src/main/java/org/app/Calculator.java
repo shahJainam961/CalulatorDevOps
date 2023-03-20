@@ -10,37 +10,37 @@ class CalculatorOperations{
 
     public double add(double a, double b){
         double ans = a + b;
-        logger.info("[ADDITION of "+a+" AND "+b+"][RESULT : "+ ans+"]");
+        logger.info(" - [ADDITION] of "+a+" AND "+b+" - [RESULT] : "+ ans);
         return ans;
     }
 
     public double subtract(double a, double b){
         double ans = a - b;
-        logger.info("[SUBTRACTION of "+a+" AND "+b+"][RESULT : "+ ans+"]");
+        logger.info(" - [SUBTRACTION] of "+a+" AND "+b+" - [RESULT] : "+ ans);
         return ans;
     }
 
     public double multiply(double a, double b){
         double ans = a * b;
-        logger.info("[MULTIPLICATION of "+a+" AND "+b+"][RESULT : "+ ans+"]");
+        logger.info(" - [MULTIPLICATION] of "+a+" AND "+b+" - [RESULT] : "+ ans);
         return ans;
     }
 
     public double divide(double a, double b){
         double ans = a / b;
-        logger.info("[DIVISION of "+a+" AND "+b+"][RESULT : "+ ans+"]");
+        logger.info(" - [DIVISION] of "+a+" AND "+b+" - [RESULT] : "+ ans);
         return ans;
     }
 
     public double power(double a,double b){
         double ans = Math.pow(a,b);
-        logger.info("[POWER of "+a+" AND "+b+"][RESULT : "+ ans+"]");
+        logger.info(" - [POWER] of "+a+" AND "+b+" - [RESULT] : "+ ans);
         return ans;
     }
 
     public double naturalLog(double n){
         double ans = Math.log(n);
-        logger.info("[NATURAL-LOG of "+n+"][RESULT : "+ ans+"]");
+        logger.info(" - [NATURAL LOG] of "+n+" - [RESULT] : "+ ans);
         return ans;
     }
 
@@ -55,13 +55,13 @@ class CalculatorOperations{
             ans = ans*n;
             n--;
         }
-        logger.info("[FACTORIAL of "+n+"][RESULT : "+ ans+"]");
+        logger.info(" - [FACTORIAL] of "+n+" - [RESULT] : "+ ans);
         return ans;
     }
 
     public double squareRoot(double a){
         double ans = Math.sqrt(a);
-        logger.info("[SQUARE-ROOT of "+a+"][RESULT : "+ ans+"]");
+        logger.info(" - [SQUARE] ROOT of "+a+" - [RESULT] : "+ ans);
         return ans;
     }
 

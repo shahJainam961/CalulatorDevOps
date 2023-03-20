@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="INFO">
     <Appenders>
-        <File name="FileAppender" filename="logs/calculator.log" immediateFlush="false" append="true">
-            <PatternLayout pattern="%d - %C [%M] - (%p) %m %n"/>
+        <File name="FileAppender" fileName="calculator.log" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%F] [%level] %logger{36} %msg%n"/>
         </File>
     </Appenders>
     <Loggers>
-        <Root level="debug">
+        <Root level="INFO">
             <AppenderRef ref="FileAppender"/>
         </Root>
     </Loggers>
