@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Configuration status="INFO">
     <Appenders>
-        <File name="FileAppender" filename="calculator.log" immediateFlush="false" append="true">
+        <File name="FileAppender" filename="logs/calculator.log" immediateFlush="false" append="true">
             <PatternLayout pattern="%d - %C [%M] - (%p) %m %n"/>
         </File>
     </Appenders>

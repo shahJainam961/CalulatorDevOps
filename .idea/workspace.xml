@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edd6565a-b8b5-41d3-9eb8-d765a39d4e08" name="Changes" comment="AFI-0017 Thread sleep added for better visual">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +70,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/logs" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="org.app" />
@@ -155,7 +159,9 @@
       <workItem from="1679109874193" duration="4022000" />
       <workItem from="1679113999656" duration="852000" />
       <workItem from="1679114861996" duration="885000" />
-      <workItem from="1679120754437" duration="2962000" />
+      <workItem from="1679120754437" duration="4632000" />
+      <workItem from="1679205009044" duration="3754000" />
+      <workItem from="1679324338623" duration="931000" />
     </task>
     <task id="LOCAL-00001" summary="AFI-0001 Add functionality added">
       <created>1678528323623</created>
@@ -423,7 +429,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679128891839</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="AFI-0017 Thread sleep added for better visual">
+      <created>1679128975211</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1679128975211</updated>
+    </task>
+    <task id="LOCAL-00040" summary="AFI-0017 Thread sleep added for better visual">
+      <created>1679129057487</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1679129057487</updated>
+    </task>
+    <task id="LOCAL-00041" summary="AFI-0017 Thread sleep added for better visual">
+      <created>1679129175388</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679129175388</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
