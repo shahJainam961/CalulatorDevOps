@@ -144,7 +144,6 @@ public class Calculator {
                         System.out.println("Please choose correct operation no. from above list");
                 }
             }catch(Exception e){
-
                 System.out.println("\n\n ====== Error =====\n\nSomething went wrong...please make sure you have entered correct inputs as asked\n\nE.g. \n-Don't enter -ve values for log operations\n-Only natural numbers are allowed for factorial ...etc\n\n");
                 scanner.nextLine();
             }
