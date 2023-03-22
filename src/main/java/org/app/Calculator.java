@@ -103,11 +103,11 @@ public class Calculator {
                     ni = scanner.nextInt();
 
                 }
-//                else if(op == 7){
-//                    System.out.print("Enter any non-negative real number : ");
-//                    num1 = scanner.nextDouble();
-//                }
-                else if(op>=1 && op<=8 && op!=7){
+                else if(op == 7){
+                    System.out.print("Enter any non-negative real number : ");
+                    num1 = scanner.nextDouble();
+                }
+                else if(op>=1 && op<=8){ //&& op!=7
                     System.out.print("Enter 1st operand : ");
                     num1 = scanner.nextDouble();
                     System.out.print("Enter 2nd operand : ");
