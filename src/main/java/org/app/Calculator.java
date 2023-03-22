@@ -137,9 +137,9 @@ public class Calculator {
                     case 6:
                         System.out.println(ni + "! = " +calcOp.factorial(ni)+"\n\n");
                         break;
-//                    case 7:
-//                        System.out.println("ln("+num1+") = "+ calcOp.naturalLog(num1)+"\n\n");
-//                        break;
+                    case 7:
+                        System.out.println("ln("+num1+") = "+ calcOp.naturalLog(num1)+"\n\n");
+                        break;
                     case 8:
                         System.out.println("pow("+num1+","+num2+") = "+ calcOp.power(num1,num2)+"\n\n");
                         break;
