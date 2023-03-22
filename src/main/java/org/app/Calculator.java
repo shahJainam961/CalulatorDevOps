@@ -42,7 +42,7 @@ class CalculatorOperations{
     }
 
     public double factorial(int n){
-
+        int tmp = n;
         if(n<0)
             return Double.NaN;
 
@@ -51,7 +51,7 @@ class CalculatorOperations{
             ans = ans*n;
             n--;
         }
-        logger.info(" - [FACTORIAL] of "+n+" - [RESULT] : "+ ans);
+        logger.info(" - [FACTORIAL] of "+tmp+" - [RESULT] : "+ ans);
         return ans;
     }
 
